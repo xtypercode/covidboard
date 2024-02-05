@@ -39,8 +39,7 @@ export default {
 
 <template>
 <div class="container flex flex-col gap-5">
-  <canvas ref="chartCanvas">
-  </canvas>
+  <canvas ref="chartCanvas"></canvas>
 </div>
 </template> 
 
